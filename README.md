@@ -17,7 +17,7 @@
   You will need to install MongoDB, Mongoose, and Express.js. You can do this by typing in the command line 'npm i mongodb express mongoose'.
 
   ## Usage
-  Please watch the following video on how to use this project: 
+  Please watch the following video on how to use this project: https://drive.google.com/file/d/12TIyMYvICSkxCc0TxQzqdNXRqnKdTkK8/view
   
   ## License
   MIT
